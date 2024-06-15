@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="DormitoryManager-master:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/DormitoryManager_master_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="DormitoryManager-master" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib3" />
+          <element id="library" level="project" name="lib4" />
+          <element id="library" level="project" name="lib6" />
+          <element id="library" level="project" name="lib7" />
+          <element id="library" level="project" name="lib8" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="DormitoryManager-master/web/Web" />
+      <element id="javaee-facet-resources" facet="DormitoryManager-master/web/Web2" />
+    </root>
+  </artifact>
+</component>
